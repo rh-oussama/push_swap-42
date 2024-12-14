@@ -21,7 +21,7 @@ Additionally, the `checker` program validates the correctness of the sorting pro
 ## Video Demonstration
 For a visual demonstration of how the `push_swap` program works, you can watch the video below:
 
-![](https://github.com/rh-oussama/push_swap-42/demo-pushswap.gif)
+![](https://github.com/rh-oussama/push_swap-42/blob/main/demo-pushswap.gif)
 
 
 ## Requirements
