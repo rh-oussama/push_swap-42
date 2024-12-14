@@ -5,6 +5,11 @@ The `push_swap` project involves sorting integers using two stacks (`a` and `b`)
 
 Additionally, the `checker` program validates the correctness of the sorting process by applying a series of instructions and checking if stack `a` is sorted and stack `b` is empty.
 
+## Video Demonstration
+For a visual demonstration of how the `push_swap` program works, you can watch the video below:
+
+![](https://github.com/rh-oussama/push_swap-42/blob/main/demo-pushswap.gif)
+
 ## Operations
 - `sa`: Swap the top two elements of stack `a`.
 - `sb`: Swap the top two elements of stack `b`.
@@ -18,10 +23,7 @@ Additionally, the `checker` program validates the correctness of the sorting pro
 - `rrb`: Reverse rotate stack `b` (move the bottom element to the top).
 - `rrr`: Reverse rotate both stack `a` and stack `b`.
 
-## Video Demonstration
-For a visual demonstration of how the `push_swap` program works, you can watch the video below:
 
-![](https://github.com/rh-oussama/push_swap-42/blob/main/demo-pushswap.gif)
 
 
 ## Requirements
