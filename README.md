@@ -18,6 +18,11 @@ Additionally, the `checker` program validates the correctness of the sorting pro
 - `rrb`: Reverse rotate stack `b` (move the bottom element to the top).
 - `rrr`: Reverse rotate both stack `a` and stack `b`.
 
+## Video Demonstration
+For a visual demonstration of how the `push_swap` program works, you can watch the video below:
+
+[Watch the demonstration](demo.mp4)
+
 ## Requirements
 - **Push_swap Program**: Sort the integers with the minimum number of operations.
 - **Checker Program**: Validate if the instructions sort the stack correctly, outputting `OK` if correct, or `KO` if not.
