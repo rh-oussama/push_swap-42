@@ -21,7 +21,7 @@ Additionally, the `checker` program validates the correctness of the sorting pro
 ## Video Demonstration
 For a visual demonstration of how the `push_swap` program works, you can watch the video below:
 
-[Watch the demonstration](demo.mp4)
+[Watch the demonstration](demo-pushswap.gif)
 
 ## Requirements
 - **Push_swap Program**: Sort the integers with the minimum number of operations.
